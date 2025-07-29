@@ -1,4 +1,4 @@
-# 🎬 Metflix Clone (Frontend Only)
+# 🎬 Netflix Clone (Frontend Only)
 
 This is a simple frontend clone of the **Netflix homepage**, built using **HTML** and **CSS** only. It is a personal project created to practice layout design, responsive UI, and styling techniques.
 
