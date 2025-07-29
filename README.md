@@ -21,4 +21,5 @@ This is a simple frontend clone of the **Netflix homepage**, built using **HTML*
 *(Add screenshots here if you have any — optional)*
 
 ## 📂 Project Structure
-
+How to run it:
+just simply download the project and open the index.html in you browser.
